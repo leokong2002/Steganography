@@ -1,6 +1,6 @@
 # steganography
 
-Hi, this is a steganography system in C in the course of Hardware Software Interface
+Hi, this is a PPM images steganography system in C which is also a coursework of Hardware Software Interface
 
 User can encode and decode messages in the red field of PPM images
 
